@@ -1,0 +1,8 @@
+.DS_Store
+.idea/
+*.iml
+target/
+*.class
+out/
+.jdk/
+.github/modernize/
